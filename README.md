@@ -1,4 +1,4 @@
-## Minimal React webpage to keep track of pictures of dog breeds.
+## Minimal React webpage to keep track of pictures of dog breeds using the DOG CEO API.
 
 Install the React app.
 
