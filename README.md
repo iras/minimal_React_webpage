@@ -1,10 +1,10 @@
-##Minimal React webpage to keep track of pictures of dog breeds.
+## Minimal React webpage to keep track of pictures of dog breeds.
 
 Install the React app.
 
 ```
-cd Minimal_React_webpage
-npm install`
+cd minimal_React_webpage
+npm install
 ```
 
 Runs the app in the development mode.
@@ -13,7 +13,7 @@ Runs the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-###Notes
+### Notes
 
 The webpage is composed of three columns:
 
